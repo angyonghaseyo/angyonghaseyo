@@ -10,8 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/angyonghaseyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angyonghaseyo" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/angyonghaseyo" target="blank"><img align="center" src="tableau_icon.jpeg" alt="angyonghaseyo" height="30" width="40" /></a>
-</p>
 
 <!-- Other content remains unchanged -->
 
