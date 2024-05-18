@@ -55,7 +55,7 @@
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat)
-![Java Badge](https://badgen.net/badge/icon/Java?icon=java&label&color=D32F2F)
+![Java Badge](https://badgen.net/badge/icon/Java?icon=java&label&color=red&labelColor=red)
 ![Perl Badge](https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=flat)
 ![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat)
