@@ -64,11 +64,12 @@
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![JSON](https://img.shields.io/badge/JSON-yellow?logo=java&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-darkgreen?logo=java&logoColor=white)
+![JSON Badge](https://img.shields.io/badge/JSON-00AB9E?style=flat-square&logo=json&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/Markdown-0074D9?style=flat-square&logo=markdown&logoColor=white)
 ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=flat)
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![XML Badge](https://img.shields.io/badge/XML-CC0000?style=flat)
+![XML Badge](https://img.shields.io/badge/XML-000000?style=flat-square&logo=simpleicons&logoColor=white)
+
 
 #### Databases
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
