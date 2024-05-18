@@ -112,7 +112,7 @@
 
 #### Work Experience
 ![GovTech](https://img.shields.io/badge/GovTech-purple)
-![Shopee](https://img.shields.io/badge/Shopee-darkblue)
+![Shopee](https://img.shields.io/badge/Shopee-orange)
 ![Agency for Science, Technology and Research](https://img.shields.io/badge/A*STAR-blue)
 ![Schneider Electric](https://img.shields.io/badge/Schneider_Electric-green)
 ![Hope Technik](https://img.shields.io/badge/Hope_Technik-red)
