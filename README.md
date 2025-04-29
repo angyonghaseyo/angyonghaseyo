@@ -48,7 +48,7 @@
 #### Languages
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
@@ -76,7 +76,6 @@
 
 
 #### Databases
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
@@ -86,7 +85,7 @@
 
 
 #### IDEs
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 ![Notepad++ Badge](https://img.shields.io/badge/Notepad%2B%2B-90E59A?logo=notepadplusplus&logoColor=000&style=flat)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
 ![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat)
@@ -117,15 +116,13 @@
 
 
 #### Cloud Services
-![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![AWS S3 Badge](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-s3&logoColor=white&style=flat)
 ![AWS DynamoDB Badge](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat)
 ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat)
 ![AWS Redshift Badge](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white&style=flat)
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![GCS Badge](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white&style=flat)
-![Compute Engine Badge](https://img.shields.io/badge/Google%20Compute%20Engine-4285F4?logo=googlecomputeengine&logoColor=white&style=flat)
-![Cloud Functions Badge](https://img.shields.io/badge/Cloud%20Functions-4285F4?logo=googlecloudfunctions&logoColor=white&style=flat)
 ![Firestore Badge](https://img.shields.io/badge/Google%20Firestore-FFCA28?logo=firebase&logoColor=black&style=flat)
 
 
@@ -134,7 +131,8 @@
 ![iOS Badge](https://img.shields.io/badge/iOS-silver?logo=apple&logoColor=white&style=flat)
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white&style=flat)
+[![Windows Badge](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
 
 
 #### Work Experience
