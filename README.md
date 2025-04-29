@@ -60,6 +60,10 @@
 ![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat)
+![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=flat)
+![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+
+
 
 #### Markup
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -76,6 +80,10 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+
 
 #### IDEs
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
@@ -92,6 +100,8 @@
 #### Source Control
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
+
 
 #### Frameworks
 ![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
@@ -102,6 +112,22 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+
+#### Cloud Services
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![AWS S3 Badge](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-s3&logoColor=white&style=flat)
+![AWS DynamoDB Badge](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat)
+![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white&style=flat)
+![AWS Redshift Badge](https://img.shields.io/badge/AWS%20Redshift-8C4FFF?logo=amazon-redshift&logoColor=white&style=flat)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![GCS Badge](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Compute Engine Badge](https://img.shields.io/badge/Google%20Compute%20Engine-4285F4?logo=googlecomputeengine&logoColor=white&style=flat)
+![Cloud Functions Badge](https://img.shields.io/badge/Cloud%20Functions-4285F4?logo=googlecloudfunctions&logoColor=white&style=flat)
+![Firestore Badge](https://img.shields.io/badge/Google%20Firestore-FFCA28?logo=firebase&logoColor=black&style=flat)
+
 
 #### Platforms
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat)
@@ -109,6 +135,7 @@
 ![macOS Badge](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white&style=flat)
+
 
 #### Work Experience
 ![GovTech](https://img.shields.io/badge/GovTech-purple)
