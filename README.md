@@ -113,6 +113,8 @@
 ![Electron Badge](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
 
 
 #### Cloud Services
